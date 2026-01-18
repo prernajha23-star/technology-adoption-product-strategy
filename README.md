@@ -127,4 +127,5 @@ This project demonstrates:
 
 ## 📂 Repository Structure
 
-
+/docs → Presentation (PDF)
+README.md → Project overview and insights
