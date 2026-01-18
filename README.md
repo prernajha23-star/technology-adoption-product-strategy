@@ -6,6 +6,9 @@
 **Project Type:** Case Study & Strategic Analysis
 
 ---
+## 📊 Project Presentation
+
+- [View Full Presentation (PDF)](docs/Tech-Driven%20Business%20Project.pptx.pdf)
 
 ## 📌 Project Overview
 
