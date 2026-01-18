@@ -22,6 +22,23 @@ The analysis focuses on:
 - Long-term competitive advantage creation
 
 ---
+## 🔍 Key Questions Addressed
+- Why do technologically advanced products fail to achieve mass adoption?
+- How do timing, ecosystem readiness, and user behavior impact product–market fit?
+- What strategic signals can companies extract from early adoption failures?
+
+## 🧠 Frameworks & Lenses Used
+- Product–Market Fit analysis
+- Technology Adoption Lifecycle
+- Ecosystem & Platform Readiness
+- Scalability and Cost Structure Assessment
+- Behavioral and Social Adoption Barriers
+
+## ✅ Key Takeaways
+- Innovation alone does not guarantee adoption; timing and context matter.
+- Ecosystem readiness and complementary infrastructure are critical for scale.
+- Early “failures” can generate long-term strategic advantage when insights are reused.
+
 
 ## 🔍 Case Studies Covered
 
